@@ -1,0 +1,56 @@
+body {
+    background: aliceblue;
+    font-family: "Verdana";
+  }
+
+.header{
+    text-align: center;
+    color:darkslategray
+}
+
+.recipe_box{
+    font-size: large;
+    background-color:silver;
+    margin: auto;
+    padding: 8px;
+    border-style:double;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+p {
+    text-align: center;
+}
+
+.myUL{
+    text-align: left;
+    display: inline-block;
+}
+
+.list_entry{
+    color:black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+.x_large{
+    font-size: x-large;
+}
+
+.large{
+    font-size: large;
+}
+
+.medium{
+    font-size: medium;
+}
+
+.small{
+    font-size: small;
+}
